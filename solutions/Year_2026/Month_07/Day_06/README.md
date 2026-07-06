@@ -32,25 +32,24 @@ $$
 $$
 
 ## Explanations
-
-| Step | Equation | Reason |
-|---:|---|---|
-| 0 | $x+5=14-\frac{1}{2}x$ | original equation |
-| $\Rightarrow$ | $x+5+\frac{1}{2}x=14-\frac{1}{2}x+\frac{1}{2}x$ | addition property of equality |
-| $\Rightarrow$ | $x+5+\frac{1}{2}x=14+\left(-\frac{1}{2}x+\frac{1}{2}x\right)$ | associativity |
-| $\Rightarrow$ | $x+5+\frac{1}{2}x=14+0$ | additive inverse property |
-| $\Rightarrow$ | $x+5+\frac{1}{2}x=14$ | additive identity property |
-| $\Rightarrow$ | $x+\frac{1}{2}x+5=14$ | commutativity |
-| $\Rightarrow$ | $\frac{3}{2}x+5=14$ | combine like terms |
-| $\Rightarrow$ | $\frac{3}{2}x+(5-5)=14-5$ | subtraction property of equality |
-| $\Rightarrow$ | $\frac{3}{2}x+0=9$ | additive inverse property |
-| $\Rightarrow$ | $\frac{3}{2}x=9$ | additive identity property |
-| $\Rightarrow$ | $2\cdot\frac{3}{2}x=2\cdot9$ | multiplication property of equality |
-| $\Rightarrow$ | $3x=18$ | associativity |
-| $\Rightarrow$ | $\frac{1}{3}\cdot3x=\frac{1}{3}\cdot18$ | multiplication property of equality |
-| $\Rightarrow$ | $\left(\frac{1}{3}\cdot3\right)x=6$ | associativity |
-| $\Rightarrow$ | $1x=6$ | multiplicative inverse property |
-| $\Rightarrow$ | $x=6$ | multiplicative identity property |
+| Equation | Reason |
+|---|---|
+| $x+5=14-\frac{1}{2}x$ | original equation |
+| $\Rightarrow\quad x+5+\frac{1}{2}x=14-\frac{1}{2}x+\frac{1}{2}x$ | addition property of equality |
+| $\Rightarrow\quad x+5+\frac{1}{2}x=14+\left(-\frac{1}{2}x+\frac{1}{2}x\right)$ | associativity |
+| $\Rightarrow\quad x+5+\frac{1}{2}x=14+0$ | additive inverse property |
+| $\Rightarrow\quad x+5+\frac{1}{2}x=14$ | additive identity property |
+| $\Rightarrow\quad x+\frac{1}{2}x+5=14$ | commutativity |
+| $\Rightarrow\quad \frac{3}{2}x+5=14$ | combine like terms |
+| $\Rightarrow\quad \frac{3}{2}x+(5-5)=14-5$ | subtraction property of equality |
+| $\Rightarrow\quad \frac{3}{2}x+0=9$ | additive inverse property |
+| $\Rightarrow\quad \frac{3}{2}x=9$ | additive identity property |
+| $\Rightarrow\quad 2\cdot\frac{3}{2}x=2\cdot9$ | multiplication property of equality |
+| $\Rightarrow\quad 3x=18$ | associativity |
+| $\Rightarrow\quad \frac{1}{3}\cdot3x=\frac{1}{3}\cdot18$ | multiplication property of equality |
+| $\Rightarrow\quad \left(\frac{1}{3}\cdot3\right)x=6$ | associativity |
+| $\Rightarrow\quad 1x=6$ | multiplicative inverse property |
+| $\Rightarrow\quad x=6$ | multiplicative identity property |
 
 ## Answer
 

@@ -1,27 +1,21 @@
-# Solution Template
+<!--
+date: {{DATE}}
+day_of_week: {{DAY_OF_WEEK}}
+topic: {{TOPIC}}
+subtopic: {{SUBTOPIC}}
+source_type: {{SOURCE_TYPE}}
+source_title: {{SOURCE_TITLE}}
+source_author: {{SOURCE_AUTHOR}}
+source_edition: {{SOURCE_EDITION}}
+source_page: {{SOURCE_PAGE}}
+source_section: {{SOURCE_SECTION}}
+-->
 
-Use this template to create a new daily math solution file.
+| Date | Day of week | Topic | Subtopic |
+|---|---|---|---|
+| {{DATE}} | {{DAY_OF_WEEK}} | {{TOPIC}} | {{SUBTOPIC}} |
 
----
-
-## Metadata
-
-| Date | Topic | Subtopic |
-|---|---|---|
-| `{{DATE}}` | `{{TOPIC}}` | `{{SUBTOPIC}}` |
-
----
-
-## Document Template
-
-Copy the following block into a new solution file.
-
-```markdown
 # {{TITLE}}
-
-| Date | Topic | Subtopic |
-|---|---|---|
-| {{DATE}} | {{TOPIC}} | {{SUBTOPIC}} |
 
 ## Problem
 
@@ -39,48 +33,24 @@ $$
 
 ## Explanations
 
-1. To solve the equation means to find the value of the unknown that satisfies the given relationship.
-
-2. Start from the original equation.
-
-$$
-\begin{array}{r r c l l}
-\phantom{\Rightarrow}
-& {{LEFT_0}}
-& =
-& {{RIGHT_0}}
-& [\text{original equation}] \\[6pt]
-
-\Rightarrow
-& {{LEFT_1}}
-& =
-& {{RIGHT_1}}
-& [\because \text{{{REASON_1}}}] \\[6pt]
-
-\Rightarrow
-& {{LEFT_2}}
-& =
-& {{RIGHT_2}}
-& [\because \text{{{REASON_2}}}] \\[6pt]
-
-\Rightarrow
-& {{LEFT_3}}
-& =
-& {{RIGHT_3}}
-& [\because \text{{{REASON_3}}}] \\[6pt]
-
-\Rightarrow
-& {{LEFT_4}}
-& =
-& {{RIGHT_4}}
-& [\because \text{{{REASON_4}}}]
-\end{array}
-$$
+| Equation | Reason |
+|---|---|
+| ${{EQUATION_0}}$ | original equation |
+| $\Rightarrow\quad {{EQUATION_1}}$ | {{REASON_1}} |
+| $\Rightarrow\quad {{EQUATION_2}}$ | {{REASON_2}} |
+| $\Rightarrow\quad {{EQUATION_3}}$ | {{REASON_3}} |
+| $\Rightarrow\quad {{EQUATION_4}}$ | {{REASON_4}} |
+| $\Rightarrow\quad {{EQUATION_5}}$ | {{REASON_5}} |
+| $\Rightarrow\quad {{EQUATION_6}}$ | {{REASON_6}} |
+| $\Rightarrow\quad {{EQUATION_7}}$ | {{REASON_7}} |
+| $\Rightarrow\quad {{EQUATION_8}}$ | {{REASON_8}} |
+| $\Rightarrow\quad {{EQUATION_9}}$ | {{REASON_9}} |
+| $\Rightarrow\quad {{EQUATION_10}}$ | {{REASON_10}} |
 
 ## Source
 
-- Textbook: {{TEXTBOOK_TITLE}}
-- Author: {{AUTHOR}}
-- Edition: {{EDITION}}
-- Section: {{SECTION}}
-- Page: {{PAGE}}
+- Textbook: *{{SOURCE_TITLE}}*
+- Author: {{SOURCE_AUTHOR}}
+- Edition: {{SOURCE_EDITION}}
+- Section: {{SOURCE_SECTION}}
+- Page: {{SOURCE_PAGE}}
