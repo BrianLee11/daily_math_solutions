@@ -1,5 +1,6 @@
 <!--
 date: 2026-07-06
+day_of_week: Monday
 topic: Algebra
 subtopic: Linear Equations
 source_type: textbook exercise
@@ -24,7 +25,6 @@ $$
 x+5=14-\frac{1}{2}x
 $$
 
-
 ## Answer
 
 $$
@@ -32,6 +32,7 @@ $$
 $$
 
 ## Explanations
+
 | Equation | Reason |
 |---|---|
 | $x+5=14-\frac{1}{2}x$ | original equation |
@@ -51,14 +52,6 @@ $$
 | $\Rightarrow\quad 1x=6$ | multiplicative inverse property |
 | $\Rightarrow\quad x=6$ | multiplicative identity property |
 
-## Answer
-
-$$
-\boxed{x=6}
-$$
-
-
-
 ## Source
 
 - Textbook: *Calculus*
@@ -66,5 +59,3 @@ $$
 - Edition: 8th edition
 - Section: Diagnostic Tests
 - Page: xxvii
-
-
